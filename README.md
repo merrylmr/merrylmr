@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merrylmr
-- 👀 I’m interested in webfront music mystery ect.
-- 🌱 I’m currently learning threejs react look after my baby
+- 👀 I’m interested in webfront, music, mystery ect.
+- 🌱 I’m currently learning threejs,react, look after my baby.
 - 📫 How to reach me email:merrylmr@qq.com  wx:himerrylmr
 
 <!---
